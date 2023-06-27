@@ -1,4 +1,4 @@
-![Anurag's github stats](https://jarno-info.vercel.app/resume)
+![Top Langs](https://jarno-info.vercel.app/resume)
 
 - 👋 Hi, I’m @jarno9981
 - 👀 I’m interested in c# , webview, chromuim, rat software
